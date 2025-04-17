@@ -13,7 +13,7 @@ This is the backend for a modern e-commerce web application. It handles user aut
 
 ```bash
 git clone https://github.com/KoolineSolutions/Ecommerce---Backend.git
-cd <backend-folder>
+cd <backend-folder> (Hint: Folder with package.json file)
 ```
 
 ### 2. Install Dependencies
