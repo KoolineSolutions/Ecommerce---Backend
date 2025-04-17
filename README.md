@@ -12,7 +12,7 @@ This is the backend for a modern e-commerce web application. It handles user aut
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-backend-repo-url>
+git clone https://github.com/KoolineSolutions/Ecommerce---Backend.git
 cd <backend-folder>
 ```
 
@@ -24,7 +24,7 @@ npm install
 
 ### 3. Environment Variables Setup
 
-Create a `.env` file in the root of the project and add the following:
+Add the following in config.env file in backend/config:
 
 ```env
 PORT=4000
